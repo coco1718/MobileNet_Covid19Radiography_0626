@@ -1,0 +1,2 @@
+# MobileNet_Covid19Radiography_0626
+코로나감염확인 MobileNet전이학습 
